@@ -1,0 +1,6 @@
+Esta es un archivo de prueba que contiene:
+
+Mi nombre: Gabriel Murillo
+Mi edad: 25 años
+Mi cumpleaños: 31 de Agosto
+Mi pareja: Camila Granda
