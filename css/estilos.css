@@ -59,3 +59,14 @@ body
  background-color: violet;  
  padding: 1em; 
 }
+
+#footer
+{
+    background: rgb(1, 19, 50);
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    padding: 0.5em;
+}
+
+
