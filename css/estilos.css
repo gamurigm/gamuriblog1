@@ -47,6 +47,12 @@ body
     font-size:  34px;
 }
 
+#post 
+{
+ background-color: violet;  
+ padding: 1em; 
+}
+
 #footer
 {
     background: rgb(1, 19, 50);
