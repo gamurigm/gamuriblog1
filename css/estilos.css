@@ -46,3 +46,12 @@ body
 {
     font-size:  34px;
 }
+
+#footer
+{
+    background: rgb(1, 19, 53);
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    padding: 0.5em;
+}
