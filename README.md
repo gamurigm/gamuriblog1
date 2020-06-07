@@ -14,6 +14,7 @@ Blog de practica de git con platzi
 - Sito web público con GitHub pages
 - Entornos de trabajo
 - Recursos colaborativos en Git y Git hub
+- Incluye ejemplos en Windows, Linux y Mac
 
 
 ###### @gamurigm
